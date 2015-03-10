@@ -1,0 +1,69 @@
+.wrap{
+	width: 75%;
+	margin: 0 auto;
+}
+
+.head{
+	height: 200px;
+	background-color: #B2B2B2;
+}
+
+.logo{
+	width: 505px;
+	height: 201px;
+}
+
+a{
+	text-decoration: none;
+	color: #2495C9;
+}
+
+.logotipo{
+	float: left;
+	width: 50%;
+	height: 100%;
+	background-color: white;
+}
+
+.buttons{
+	float: right;
+	width: 50%;
+	height: 100%;
+	line-height: 250px;
+	text-align: center;
+	word-spacing: 100px;
+	font-family: sans-serif;
+}
+
+
+.eventos{
+	float: left;
+	width: 100%;
+	height: 455px;
+	position: relative;
+}
+
+.i1{
+	width: 60%;
+	margin: 0 auto;
+}
+
+.campos{
+	clear: both;
+	float: none;
+	word-spacing: 15px;
+	text-align: center;
+	font-family: sans-serif;
+	font-size: 15px;
+}
+
+.footer{
+	width: 75%;
+	margin: 0 auto;
+}
+
+.resultados{
+	clear: left;
+	text-align: center;
+	line-height: 10px;
+}
